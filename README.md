@@ -11,3 +11,12 @@ Ethical implications of chatbot, addressing topics such as transparency, bias mi
 !pip install gradio
 
 !pip install openai
+
+#### References:
+**https://ubicomp.oulu.fi/people**
+%0 Journal Article
+%T HuntGPT: Integrating Machine Learning-Based Anomaly Detection and Explainable AI with Large Language Models (LLMs)
+%A Ali, Tarek
+%A Kostakos, Panos
+%J arXiv preprint arXiv:2309.16021
+%D 2023
